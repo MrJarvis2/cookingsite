@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Sep 2020 19:06:23 at https://www.nordcurrent.com/games/cooking-fever +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nordcurrent.com/games/cooking-fever -O1 "D:\site download\dev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:07:10	Error: 	"Not Found" (404) at link https://www.nordcurrent.com/themes/nordcurrent/css/owl.video.play.png (from https://www.nordcurrent.com/themes/nordcurrent/css/style.css)
+19:07:10	Error: 	"Not Found" (404) at link https://www.nordcurrent.com/themes/nordcurrent/css/fonts/fonticon-b5a8f39461d38fa8fa01a7a94c05ffda.eot (from https://www.nordcurrent.com/themes/nordcurrent/css/style.css)
+19:07:10	Error: 	"Not Found" (404) at link https://www.nordcurrent.com/themes/nordcurrent/css/fonts/fonticon-b5a8f39461d38fa8fa01a7a94c05ffda.eot? (from https://www.nordcurrent.com/themes/nordcurrent/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 27 links scanned, 23 files written (1102376 bytes overall) [965619 bytes received at 20545 bytes/sec], 252915 bytes transferred using HTTP compression in 12 files, ratio 25%, 8.2 requests per connection
+(3 errors, 0 warnings, 0 messages)
